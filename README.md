@@ -1,6 +1,6 @@
 # Youtube-script-assistant
 
-Welcome to the **YouTube Script Assistant**! This project helps content creators generate engaging YouTube scripts effortlessly using cutting-edge AI technology.  
+This project helps content creators generate engaging YouTube scripts effortlessly using cutting-edge AI technology.  
 
 ## Features  
 - **Script Generation**: Create creative and structured YouTube scripts based on input topics.  
